@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pA1s6OldTTo=",
+  "success": true,
+  "projectFilePath": "D:\\Users\\rohith.bukkambudhi\\Source\\Repos\\flight_booking\\FlightTicket.Core\\FlightTicket.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rohith.bukkambudhi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
